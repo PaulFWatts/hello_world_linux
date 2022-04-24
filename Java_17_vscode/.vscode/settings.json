@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "hello_world_console/src",
+        "hello_world_gui/src/com/example/helloworld/swing"
+    ]
+}
